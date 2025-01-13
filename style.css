@@ -568,7 +568,7 @@ html {
   left: 50%;
   transition: transform 0.3s ease;
   transform: translate(-50%, -50%);
-  background: #555;
+  background: #c0c0c0;
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.371);
